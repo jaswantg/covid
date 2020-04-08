@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaathaSisuSamrakshana", "MaathaSisuSamrakshana\MaathaSisuSamrakshana.csproj", "{79F77CAC-5E8D-4E72-8964-AFECCA44E8FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PW_SMS", "PW_SMS\PW_SMS.csproj", "{65A44057-6AFF-4089-A3A6-7085F1D24B1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F77CAC-5E8D-4E72-8964-AFECCA44E8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F77CAC-5E8D-4E72-8964-AFECCA44E8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F77CAC-5E8D-4E72-8964-AFECCA44E8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F77CAC-5E8D-4E72-8964-AFECCA44E8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A44057-6AFF-4089-A3A6-7085F1D24B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A44057-6AFF-4089-A3A6-7085F1D24B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A44057-6AFF-4089-A3A6-7085F1D24B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A44057-6AFF-4089-A3A6-7085F1D24B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B8B460D-02B1-493F-90BB-0A84DC9788B9}
+	EndGlobalSection
+EndGlobal
